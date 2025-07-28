@@ -1,0 +1,18 @@
+{
+  "tool": "tinkers_dolabras:dolabra",
+  "text": [
+    {
+      "text": "The Dolabra is a multipurpose wood and stone mining tool. It is effective on a variety of blocks."
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "Not quite a Paxel."
+    }
+  ],
+  "properties": [
+    "Effective on wood and stone",
+    "Strips woods logs with ease"
+  ]
+}
