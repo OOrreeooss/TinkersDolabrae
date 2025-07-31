@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "parts": [
-    { "path": "tinkers_dolabras:item/tool/dolabra/pick",         "stat_type": "tconstruct:head" },
-    { "path": "tinkers_dolabras:item/tool/dolabra/pick_broken",  "stat_type": "tconstruct:head" }
-  ]
-}
