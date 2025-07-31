@@ -1,0 +1,8 @@
+{
+  "icon": "tinkers_dolabrae:dolabra",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.tinkers_dolabrae.tinkers_dolabrae",
+  "items": [
+    "tinkers_dolabrae:dolabra"
+  ]
+}
