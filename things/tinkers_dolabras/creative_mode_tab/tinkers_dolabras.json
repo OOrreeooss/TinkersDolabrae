@@ -1,8 +1,0 @@
-{
-  "icon": "tinkers_dolabras:dolabra",
-  "after": ["tconstruct:world"],
-  "translation_key": "itemGroup.tinkers_dolabras.tinkers_dolabras",
-  "items": [
-    "tinkers_dolabras:dolabra"
-  ]
-}
