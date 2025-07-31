@@ -1,0 +1,11 @@
+{
+  "tool": "tinkers_dolabrae:dolabra",
+  "text": [
+    { "text": "You defeat the enemy with a pickaxe." }
+  ],
+  "properties": [
+    "Effective on wood, stone, and ores",
+    "Can strip logs",
+    "Sadly not effective on dirt"
+  ]
+}
