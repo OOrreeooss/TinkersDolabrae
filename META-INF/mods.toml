@@ -1,12 +1,13 @@
 modLoader="lowcodefml"
 loaderVersion="*"
+issueTrackerURL="https://github.com/OOrreeooss/TinkersDolabrae/issues"
 license="MIT"
 [[mods]]
     modId="tinkers_dolabrae"
-    version="1.0.0"
-    displayName="Tinkers' Dolabres"
+    version="1.0.1"
+    displayName="Tinkers' Dolabrae"
     authors="OOrreeooss"
-    description='''A Thing Pack for Tinkers' Construct that adds dolabrae.'''
+    description='''A thingpack for Tinkers' Construct that adds dolabrae.'''
 [[dependencies.tinkers_dolabrae]]
     modId="tconstruct"
     mandatory=true
